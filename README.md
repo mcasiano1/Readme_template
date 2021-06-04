@@ -15,37 +15,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub contributors](https://img.shields.io/github/contributors/Corters22/project_3?logo=Github&style=for-the-badge)](https://github.com/Corters22/project_3/graphs/contributors)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Corters22/project_3?style=for-the-badge)
 
+[![Header](https://github.com/mcasiano1/Readme_template/blob/master/images/Project3-1.gif)]
 
+# Background:
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
+The divorce rate has increased since 1960. But since 1990, there has been a downward trend in divorce statistics. This suggests divorce rates over time are changing drastically, as are marriage and cohabitation trends. By assessing the divorce rate statistics by year, it’s easy to see that the rate of divorce in the US is on a general decline. 
 
 
 
