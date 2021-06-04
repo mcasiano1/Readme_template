@@ -20,10 +20,13 @@
 
 [![Header](https://github.com/mcasiano1/Readme_template/blob/master/images/Project3-1.gif)]
 
+---
+
 # Background:
 
 The divorce rate has increased since 1960. But since 1990, there has been a downward trend in divorce statistics. This suggests divorce rates over time are changing drastically, as are marriage and cohabitation trends. By assessing the divorce rate statistics by year, it’s easy to see that the rate of divorce in the US is on a general decline. 
 
+---
 
 
 <!-- TABLE OF CONTENTS -->
